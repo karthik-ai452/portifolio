@@ -52,7 +52,3 @@ Access at: https://portifolio1-henna-eight.vercel.app/
 ### Deployment
 The portfolio is live at: [https://portifolio1-henna-eight.vercel.app/](https://portifolio1-henna-eight.vercel.app/)
 
-<<<<<<< HEAD
-This project is licensed under the MIT License.
-=======
->>>>>>> 45543da (Update README with development process and deployment details)
